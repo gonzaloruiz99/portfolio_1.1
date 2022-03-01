@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 742.9 546.4" style="enable-background:new 0 0 742.9 546.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E8EAEC;}
+	.st1{fill:#232728;}
+	.st2{fill:#C5DEE2;}
+	.st3{fill:#D2E2E7;}
+	.st4{fill:none;stroke:#9DB79B;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#515151;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:#E1DABB;}
+	.st7{fill:#CCA5A1;}
+	.st8{fill:#AA7D7D;}
+	.st9{fill:#8CA387;}
+	.st10{fill:#171818;}
+	.st11{fill:none;stroke:#E8EAEC;stroke-width:2;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#232728;stroke-width:2;stroke-miterlimit:10;}
+	.st13{fill:#EBDF9D;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:0.5201;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:0.5917;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#232728;stroke-miterlimit:10;}
+	.st17{fill:#6F6E69;}
+	.st18{fill:#DCC140;}
+	.st19{fill:#85AAB8;}
+	.st20{fill:#C3DEEB;}
+	.st21{fill:#AED2E2;}
+	.st22{fill:#9DB79B;}
+	.st23{fill:#EBE2B4;}
+	.st24{fill:#010002;}
+	.st25{fill:#B4D0AE;}
+	.st26{fill:#97969C;}
+	.st27{fill:none;stroke:#FFFFFF;stroke-width:0.5059;stroke-miterlimit:10;}
+	.st28{fill:#FFFFFF;}
+	.st29{fill:none;stroke:#211915;stroke-width:2;stroke-miterlimit:10;}
+	.st30{fill:none;stroke:#211915;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:12.0382,12.0382;}
+	.st31{fill:none;}
+	.st32{opacity:0.57;fill:#938080;stroke:#211915;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#5EA9AB;stroke-width:0.75;stroke-miterlimit:10;}
+	.st34{fill:#FFFFFF;stroke:#211915;stroke-width:0.5194;stroke-miterlimit:10;}
+</style>
+<g id="Capa_1">
+	<rect id="XMLID_1595_" x="-2846.8" y="1864.9" class="st0" width="742.5" height="448.6"/>
+	<rect id="XMLID_7476_" x="-2847.2" y="2313.5" class="st1" width="742.9" height="516.5"/>
+	<g id="XMLID_7469_">
+		<g id="XMLID_7474_">
+			<rect id="XMLID_14_" x="-2839.1" y="2664.5" class="st2" width="734.8" height="123.9"/>
+		</g>
+		<g id="XMLID_7473_">
+		</g>
+	</g>
+	<g id="XMLID_7462_">
+		<g id="XMLID_7467_">
+			<rect id="XMLID_13_" x="-2303.5" y="2353.4" class="st3" width="199.2" height="123.6"/>
+		</g>
+		<g id="XMLID_7466_">
+		</g>
+	</g>
+	<line id="XMLID_7461_" class="st4" x1="-2414.7" y1="3361.4" x2="-2414.7" y2="3111.4"/>
+	<line id="XMLID_7460_" class="st5" x1="-2376.7" y1="3361.4" x2="-2376.7" y2="3257.4"/>
+	<rect id="XMLID_7459_" x="-2846.8" y="1318.4" class="st1" width="742.9" height="546.4"/>
+	<g id="XMLID_7452_">
+		<g id="XMLID_7457_">
+			<rect id="XMLID_12_" x="-2847.2" y="2173.1" class="st6" width="742.9" height="123.9"/>
+		</g>
+		<g id="XMLID_7456_">
+		</g>
+	</g>
+	<g id="XMLID_7445_">
+		<g id="XMLID_7450_">
+			<rect id="XMLID_11_" x="-2323.2" y="1330.7" class="st7" width="155.4" height="553.3"/>
+		</g>
+		<g id="XMLID_7449_">
+		</g>
+	</g>
+	<g id="XMLID_7438_">
+		<g id="XMLID_7443_">
+			<rect id="XMLID_10_" x="-2797.2" y="1753.4" class="st8" width="125.3" height="125.6"/>
+		</g>
+		<g id="XMLID_7442_">
+		</g>
+	</g>
+	<g id="XMLID_7363_">
+		<g id="XMLID_7368_">
+			<rect id="XMLID_8_" x="-2847.3" y="2830" class="st9" width="203.7" height="166.1"/>
+		</g>
+		<g id="XMLID_7367_">
+		</g>
+	</g>
+	<rect id="XMLID_7362_" x="-2847.2" y="3617" class="st10" width="742.9" height="696.4"/>
+	<rect id="XMLID_200_" x="-2614.3" y="2591.4" class="st31" width="126.1" height="27.9"/>
+	<text id="XMLID_7007_" transform="matrix(1 0 0 1 -2607.3257 2596.1418)"><tspan x="0" y="0" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">Desplegar items de un JSON con mismas </tspan><tspan x="-0.9" y="10.1" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">caracteristicas, evitar refrescar la pagina al </tspan><tspan x="-4.8" y="20.2" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">cambiar, sino solo  cambiando la informacion</tspan></text>
+	<line id="XMLID_7001_" class="st11" x1="-2718.7" y1="2313.4" x2="-2718.7" y2="2359.4"/>
+	<line id="XMLID_7000_" class="st12" x1="-2718.7" y1="2219.4" x2="-2718.7" y2="2313.4"/>
+	<rect id="XMLID_6996_" x="-2846.8" y="1318.4" class="st0" width="743.3" height="81.7"/>
+	<rect id="XMLID_6899_" x="-2797.2" y="1864.9" class="st13" width="125.3" height="14.2"/>
+	<rect id="XMLID_6898_" x="-2323.2" y="1864.9" class="st13" width="155.4" height="19.1"/>
+	<line id="XMLID_6897_" class="st11" x1="-2583.7" y1="2326.4" x2="-2441.7" y2="2326.4"/>
+	<line id="XMLID_6896_" class="st11" x1="-2583.7" y1="2343.4" x2="-2512.7" y2="2343.4"/>
+	<rect id="XMLID_6382_" x="-2822.3" y="3904.9" class="st14" width="718" height="408.5"/>
+	<rect id="XMLID_1774_" x="-3943.1" y="3617" class="st10" width="961.8" height="696.4"/>
+	<rect id="XMLID_1770_" x="-3910.8" y="3904.9" class="st15" width="929.6" height="408.5"/>
+	<polyline id="XMLID_6315_" class="st16" points="-2775.2,2540.4 -2775.2,2594.1 -2774.9,2593.9 -2716.1,2593.9 -2716.2,2593.6 
+		-2716.2,2658.4 	"/>
+	<rect id="XMLID_1830_" x="-3942.3" y="1864.9" class="st0" width="961" height="448.6"/>
+	<rect id="XMLID_1829_" x="-3942.3" y="2830" class="st0" width="961" height="514.8"/>
+	<rect id="XMLID_1828_" x="-3942.8" y="2313.5" class="st1" width="961.5" height="516.5"/>
+	<g id="XMLID_1821_">
+		<g id="XMLID_1826_">
+			<rect id="XMLID_7_" x="-3932.4" y="2664.5" class="st2" width="951.1" height="123.9"/>
+		</g>
+		<g id="XMLID_1825_">
+		</g>
+	</g>
+	<g id="XMLID_1814_">
+		<g id="XMLID_1819_">
+			<rect id="XMLID_6_" x="-3239.2" y="2353.4" class="st3" width="257.9" height="123.6"/>
+		</g>
+		<g id="XMLID_1818_">
+		</g>
+	</g>
+	<line id="XMLID_1813_" class="st4" x1="-3382.7" y1="3361.4" x2="-3382.7" y2="3111.4"/>
+	<line id="XMLID_1812_" class="st5" x1="-3334.7" y1="3361.4" x2="-3334.7" y2="3257.4"/>
+	<rect id="XMLID_1811_" x="-3942.3" y="1318.4" class="st1" width="961.5" height="546.4"/>
+	<g id="XMLID_1804_">
+		<g id="XMLID_1809_">
+			<rect id="XMLID_5_" x="-3942.8" y="2173.1" class="st6" width="961.5" height="123.9"/>
+		</g>
+		<g id="XMLID_1808_">
+		</g>
+	</g>
+	<g id="XMLID_1797_">
+		<g id="XMLID_1802_">
+			<rect id="XMLID_4_" x="-3264.7" y="1330.7" class="st7" width="206.8" height="553.3"/>
+		</g>
+		<g id="XMLID_1801_">
+		</g>
+	</g>
+	<g id="XMLID_1783_">
+		<g id="XMLID_1788_">
+			<rect id="XMLID_9_" x="-3942.8" y="3342.2" class="st9" width="961.5" height="274.8"/>
+		</g>
+		<g id="XMLID_1787_">
+		</g>
+	</g>
+	<g id="XMLID_1776_">
+		<g id="XMLID_1781_">
+			<rect id="XMLID_15_" x="-3943.1" y="2830" class="st9" width="263.7" height="166.1"/>
+		</g>
+		<g id="XMLID_1780_">
+		</g>
+	</g>
+	<rect id="XMLID_132_" x="-3641.4" y="2591.4" class="st31" width="163.2" height="27.9"/>
+	<text id="XMLID_1772_" transform="matrix(1.2943 0 0 1 -3632.4038 2596.1418)"><tspan x="0" y="0" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">Desplegar items de un JSON con mismas </tspan><tspan x="-0.9" y="10.1" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">caracteristicas, evitar refrescar la pagina al </tspan><tspan x="-4.8" y="20.2" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">cambiar, sino solo  cambiando la informacion</tspan></text>
+	<line id="XMLID_1767_" class="st11" x1="-3776.7" y1="2313.4" x2="-3776.7" y2="2359.4"/>
+	<line id="XMLID_1766_" class="st12" x1="-3776.7" y1="2219.4" x2="-3776.7" y2="2313.4"/>
+	<rect id="XMLID_1761_" x="-3942.3" y="1318.4" class="st0" width="962" height="81.7"/>
+	<g id="XMLID_3_">
+		<g id="XMLID_1790_">
+			<g id="XMLID_1795_">
+				<rect id="XMLID_225_" x="-3865.2" y="1753.4" class="st8" width="137.9" height="125.6"/>
+			</g>
+			<g id="XMLID_1794_">
+			</g>
+		</g>
+		<rect id="XMLID_1758_" x="-3865.2" y="1864.9" class="st13" width="137.9" height="14.2"/>
+	</g>
+	<rect id="XMLID_1756_" x="-3264.7" y="1864.9" class="st13" width="206.8" height="19.1"/>
+	<line id="XMLID_1755_" class="st11" x1="-3601.7" y1="2326.4" x2="-3417.7" y2="2326.4"/>
+	<line id="XMLID_1754_" class="st11" x1="-3601.7" y1="2343.4" x2="-3510.7" y2="2343.4"/>
+	<polyline id="XMLID_1753_" class="st16" points="-3849.2,2540.4 -3849.2,2594.1 -3849.2,2593.9 -3773.2,2593.9 -3773.2,2593.6 
+		-3773.2,2658.4 	"/>
+	<g id="XMLID_2732_">
+		<rect id="XMLID_2744_" x="-2744" y="1884" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_2733_" x="-2753.6" y="1890.8" class="st18" width="19.2" height="13.7"/>
+	</g>
+	<g id="XMLID_2727_">
+		<rect id="XMLID_2731_" x="-2144.3" y="2260.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_2728_" x="-2153.9" y="2267" class="st0" width="19.2" height="13.7"/>
+	</g>
+	<g id="XMLID_2689_">
+		
+			<rect id="XMLID_2705_" x="-2423.2" y="2388.2" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -5808.0493 2594.0073)" class="st17" width="19.2" height="13.7"/>
+		
+			<rect id="XMLID_2691_" x="-2434.9" y="2386.9" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -5827.7305 2584.115)" class="st19" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_2684_" x="-2842.7" y="2282.1" class="st1" width="19.2" height="13.7"/>
+	
+		<rect id="XMLID_2682_" x="-2830.1" y="2302.2" transform="matrix(0.9214 0.3886 -0.3886 0.9214 675.6241 1277.5076)" class="st20" width="19.2" height="13.7"/>
+	<g id="XMLID_2662_">
+		<rect id="XMLID_2680_" x="-2130.9" y="2815.6" class="st21" width="19.2" height="13.7"/>
+		<rect id="XMLID_2665_" x="-2150.5" y="2830.7" class="st22" width="19.2" height="13.7"/>
+	</g>
+	<g id="XMLID_2661_">
+		<g id="XMLID_44_">
+			<path id="XMLID_48_" class="st23" d="M-2693.6,2016.9c1,0,1-1.6,0-1.6C-2694.6,2015.3-2694.6,2016.9-2693.6,2016.9
+				L-2693.6,2016.9z"/>
+		</g>
+	</g>
+	<g id="XMLID_2640_">
+		<g id="XMLID_38_">
+			<path id="XMLID_42_" class="st23" d="M-2677,1984.6c1,0,1-1.6,0-1.6C-2678,1983.1-2678,1984.6-2677,1984.6L-2677,1984.6z"/>
+		</g>
+	</g>
+	<g id="XMLID_1480_">
+		<circle id="XMLID_1586_" class="st7" cx="-2126.6" cy="1574.1" r="6.2"/>
+		<circle id="XMLID_1585_" class="st24" cx="-2126.6" cy="1591.3" r="6.2"/>
+		<circle id="XMLID_1584_" class="st24" cx="-2126.6" cy="1607.9" r="6.2"/>
+		<circle id="XMLID_1512_" class="st24" cx="-2126.6" cy="1625.6" r="6.2"/>
+		<path id="XMLID_1484_" class="st24" d="M-2119.9,1641.4h-0.8v6.8c0,0.6,0,1.2-0.6,1.2h-4.4v-3h-2v3h-4.1c-0.6,0-1.9-0.6-1.9-1.2
+			v-6.8h0.5c-0.5,0-0.8-0.3-0.6-0.5l6.7-5.2c0.3-0.2,0.9-0.2,1.2,0l6.7,5.2C-2119,1641.1-2119.4,1641.4-2119.9,1641.4z"/>
+	</g>
+	<g id="XMLID_1748_">
+		<rect id="XMLID_1750_" x="-3809.3" y="1884" class="st17" width="24.8" height="13.7"/>
+		<rect id="XMLID_1749_" x="-3821.7" y="1890.8" class="st18" width="24.8" height="13.7"/>
+	</g>
+	<g id="XMLID_1745_">
+		<rect id="XMLID_1747_" x="-3033.1" y="2260.2" class="st17" width="24.8" height="13.7"/>
+		<rect id="XMLID_1746_" x="-3045.5" y="2267" class="st0" width="24.8" height="13.7"/>
+	</g>
+	<g id="XMLID_1742_">
+		<polygon id="XMLID_1744_" class="st17" points="-3396.9,2393.8 -3378.3,2406.5 -3366.6,2396.2 -3385.2,2383.5 		"/>
+		<polygon id="XMLID_1743_" class="st19" points="-3412,2392.5 -3393.4,2405.2 -3381.7,2395 -3400.3,2382.3 		"/>
+	</g>
+	<rect id="XMLID_1741_" x="-3937" y="2283.3" class="st1" width="24.8" height="13.7"/>
+	<polygon id="XMLID_1740_" class="st20" points="-3900.3,2336.4 -3923.2,2329 -3916.3,2316.4 -3893.5,2323.8 	"/>
+	<g id="XMLID_1735_">
+		<rect id="XMLID_1739_" x="-3015.8" y="2815.6" class="st21" width="24.8" height="13.7"/>
+		<rect id="XMLID_1736_" x="-3041.1" y="2830.7" class="st22" width="24.8" height="13.7"/>
+	</g>
+	<g id="XMLID_1476_">
+		<g id="XMLID_32_">
+			<path id="XMLID_36_" class="st23" d="M-3744.1,2017c1.1,0,1.1-1.8,0-1.8C-3745.2,2015.2-3745.2,2017-3744.1,2017L-3744.1,2017z"
+				/>
+		</g>
+	</g>
+	<g id="XMLID_1106_">
+		<g id="XMLID_29_">
+			<path id="XMLID_52_" class="st23" d="M-3722.5,1984.8c1.1,0,1.1-1.8,0-1.8C-3723.7,1983-3723.7,1984.8-3722.5,1984.8
+				L-3722.5,1984.8z"/>
+		</g>
+	</g>
+	<g id="XMLID_5338_">
+		<rect id="XMLID_5345_" x="-2274.1" y="4246.9" class="st13" width="15" height="66.6"/>
+		<rect id="XMLID_5344_" x="-2256.3" y="4246.9" class="st20" width="15" height="66.6"/>
+		<rect id="XMLID_5343_" x="-2291.8" y="4246.9" class="st7" width="15" height="66.6"/>
+		<rect id="XMLID_5342_" x="-2238.5" y="4246.9" class="st25" width="15" height="66.6"/>
+		<rect id="XMLID_5341_" x="-2220.8" y="4246.9" class="st0" width="15" height="66.6"/>
+		<rect id="XMLID_5340_" x="-2203" y="4246.9" class="st26" width="15" height="66.6"/>
+		<rect id="XMLID_5339_" x="-2185.3" y="4246.9" class="st1" width="15" height="66.6"/>
+	</g>
+	<rect id="XMLID_168_" x="-854.8" y="1864.9" class="st0" width="742.5" height="448.6"/>
+	<rect id="XMLID_167_" x="-854.8" y="2830" class="st0" width="742.5" height="514.8"/>
+	<rect id="XMLID_166_" x="-855.2" y="2313.5" class="st1" width="742.9" height="516.5"/>
+	<rect id="XMLID_149_" x="-854.8" y="1318.4" class="st1" width="742.9" height="546.4"/>
+	<rect id="XMLID_247_" x="7.7" y="736.9" class="st1" width="742.9" height="546.4"/>
+	<g id="XMLID_142_">
+		<g id="XMLID_147_">
+			<rect id="XMLID_75_" x="-855.2" y="2173.1" class="st6" width="742.9" height="123.9"/>
+		</g>
+		<g id="XMLID_146_">
+		</g>
+	</g>
+	<rect id="XMLID_112_" x="-855.2" y="3617" class="st10" width="742.9" height="696.4"/>
+	<rect id="XMLID_111_" x="-622.3" y="2591.4" class="st31" width="126.1" height="27.9"/>
+	<text id="XMLID_110_" transform="matrix(1 0 0 1 -615.3256 2596.1418)"><tspan x="0" y="0" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">Desplegar items de un JSON con mismas </tspan><tspan x="-0.9" y="10.1" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">caracteristicas, evitar refrescar la pagina al </tspan><tspan x="-4.8" y="20.2" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">cambiar, sino solo  cambiando la informacion</tspan></text>
+	<rect id="XMLID_102_" x="-795.4" y="3904.9" class="st27" width="683.1" height="408.5"/>
+	<polyline id="XMLID_101_" class="st16" points="-783.2,2540.4 -783.2,2594.1 -782.9,2593.9 -724.1,2593.9 -724.2,2593.6 
+		-724.2,2658.4 	"/>
+	<g id="XMLID_113_">
+		<g id="XMLID_76_">
+			<rect id="XMLID_141_" x="-854.4" y="2830" class="st9" width="203.7" height="166.1"/>
+		</g>
+		<g id="XMLID_134_">
+		</g>
+	</g>
+	<g id="XMLID_119_">
+		<g id="XMLID_170_">
+			<rect id="XMLID_16_" x="-855.2" y="2830" class="st9" width="203.7" height="166.1"/>
+		</g>
+		<g id="XMLID_169_">
+		</g>
+	</g>
+	<g id="XMLID_120_">
+		<g id="XMLID_125_">
+			<rect id="XMLID_65_" x="-855" y="3342.2" class="st9" width="742.9" height="274.8"/>
+		</g>
+		<g id="XMLID_124_">
+		</g>
+	</g>
+	<g id="XMLID_78_">
+		<g id="XMLID_186_">
+			<path id="XMLID_190_" class="st23" d="M-701.6,2016.9c1,0,1-1.6,0-1.6C-702.6,2015.3-702.6,2016.9-701.6,2016.9L-701.6,2016.9z"
+				/>
+		</g>
+	</g>
+	<g id="XMLID_71_">
+		<g id="XMLID_180_">
+			<path id="XMLID_184_" class="st23" d="M-685,1984.6c1,0,1-1.6,0-1.6C-686,1983.1-686,1984.6-685,1984.6L-685,1984.6z"/>
+		</g>
+	</g>
+	<rect id="XMLID_293_" x="17.9" y="1544.6" class="st0" width="742.5" height="546.4"/>
+	<g id="XMLID_286_">
+		<g id="XMLID_228_">
+			<rect id="XMLID_249_" x="17.8" y="1863.1" class="st6" width="742.9" height="123.9"/>
+		</g>
+		<g id="XMLID_229_">
+		</g>
+	</g>
+	<g id="XMLID_279_">
+		<g id="XMLID_642_">
+			<path id="XMLID_646_" class="st23" d="M171.4,1706.9c1,0,1-1.6,0-1.6C170.4,1705.3,170.4,1706.9,171.4,1706.9L171.4,1706.9z"/>
+		</g>
+	</g>
+	<g id="XMLID_272_">
+		<g id="XMLID_634_">
+			<path id="XMLID_640_" class="st23" d="M188,1674.6c1,0,1-1.6,0-1.6C187,1673.1,187,1674.6,188,1674.6L188,1674.6z"/>
+		</g>
+	</g>
+	<g id="XMLID_159_">
+		<g id="XMLID_164_">
+			<rect id="XMLID_68_" x="-795.2" y="2664.5" class="st2" width="683" height="123.9"/>
+		</g>
+		<g id="XMLID_163_">
+		</g>
+	</g>
+	<g id="XMLID_81_">
+		<g id="XMLID_2_">
+			<rect id="XMLID_17_" x="-316.4" y="2353.4" class="st3" width="204.1" height="123.6"/>
+		</g>
+		<g id="XMLID_18_">
+		</g>
+	</g>
+	<rect id="XMLID_310_" x="17.8" y="2091.5" class="st1" width="742.9" height="546"/>
+	<rect id="XMLID_309_" x="250.7" y="2369.4" class="st31" width="126.1" height="27.9"/>
+	<text id="XMLID_308_" transform="matrix(1 0 0 1 257.6744 2374.1418)"><tspan x="0" y="0" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">Desplegar items de un JSON con mismas </tspan><tspan x="-0.9" y="10.1" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">caracteristicas, evitar refrescar la pagina al </tspan><tspan x="-4.8" y="20.2" class="st1" style="font-family:'Roboto-Thin'; font-size:6.2407px;">cambiar, sino solo  cambiando la informacion</tspan></text>
+	<polyline id="XMLID_307_" class="st16" points="89.8,2318.4 89.8,2372.1 90.1,2371.9 148.9,2371.9 148.8,2371.6 148.8,2436.4 	"/>
+	<g id="XMLID_300_">
+		<g id="XMLID_298_">
+			<rect id="XMLID_305_" x="77.8" y="2427.1" class="st2" width="683" height="123.9"/>
+		</g>
+		<g id="XMLID_304_">
+		</g>
+	</g>
+	<g id="XMLID_292_">
+		<g id="XMLID_230_">
+			<rect id="XMLID_297_" x="556.6" y="2131.4" class="st3" width="204.1" height="123.6"/>
+		</g>
+		<g id="XMLID_231_">
+		</g>
+	</g>
+	<g id="XMLID_1724_">
+		<rect id="XMLID_1769_" x="-3201.1" y="4246.9" class="st13" width="19.4" height="66.6"/>
+		<rect id="XMLID_1760_" x="-3178.1" y="4246.9" class="st20" width="19.4" height="66.6"/>
+		<rect id="XMLID_1759_" x="-3224.1" y="4246.9" class="st7" width="19.4" height="66.6"/>
+		<rect id="XMLID_1738_" x="-3155.1" y="4246.9" class="st25" width="19.4" height="66.6"/>
+		<rect id="XMLID_1737_" x="-3132.1" y="4246.9" class="st0" width="19.4" height="66.6"/>
+		<rect id="XMLID_1727_" x="-3109.2" y="4246.9" class="st26" width="19.4" height="66.6"/>
+		<rect id="XMLID_1725_" x="-3086.2" y="4246.9" class="st1" width="19.4" height="66.6"/>
+	</g>
+</g>
+<g id="vectors">
+	<line id="XMLID_109_" class="st11" x1="-722.7" y1="2313.4" x2="-722.7" y2="2359.4"/>
+	<line id="XMLID_108_" class="st12" x1="-722.7" y1="2219.4" x2="-722.7" y2="2313.4"/>
+	<line id="XMLID_104_" class="st11" x1="-597.7" y1="2326.4" x2="-448.7" y2="2326.4"/>
+	<line id="XMLID_103_" class="st11" x1="-597.7" y1="2343.4" x2="-523.7" y2="2343.4"/>
+	<g id="XMLID_98_">
+		<rect id="XMLID_100_" x="-747.7" y="1894.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_99_" x="-757.3" y="1901.1" class="st18" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_227_" x="-791.3" y="1452.5" class="st17" width="19.2" height="13.7"/>
+	<rect id="XMLID_226_" x="-795.2" y="1445.7" class="st8" width="19.2" height="13.7"/>
+	<rect id="XMLID_91_" x="-828.9" y="2282.1" class="st1" width="19.2" height="13.7"/>
+	
+		<rect id="XMLID_90_" x="-816.3" y="2319.6" transform="matrix(0.9214 0.3886 -0.3886 0.9214 840.6301 496.3214)" class="st20" width="19.2" height="13.7"/>
+	<g id="XMLID_95_">
+		<rect id="XMLID_97_" x="-162.1" y="2260.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_96_" x="-171.7" y="2267" class="st0" width="19.2" height="13.7"/>
+	</g>
+	<g id="XMLID_92_">
+		
+			<rect id="XMLID_94_" x="-424.6" y="2388.2" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -2310.7441 3916.3049)" class="st17" width="19.2" height="13.7"/>
+		
+			<rect id="XMLID_93_" x="-436.3" y="2386.9" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -2330.4253 3906.4126)" class="st19" width="19.2" height="13.7"/>
+	</g>
+	<g id="XMLID_151_">
+		<g id="XMLID_70_">
+			<g id="XMLID_56_">
+				<rect id="XMLID_88_" x="-795.4" y="1753.2" class="st8" width="106.6" height="125.6"/>
+			</g>
+			<g id="XMLID_87_">
+			</g>
+		</g>
+		<rect id="XMLID_69_" x="-795.4" y="1864.6" class="st13" width="106.6" height="14.2"/>
+	</g>
+	<g id="XMLID_1_">
+		<g id="XMLID_118_">
+			<g id="XMLID_154_">
+				<rect id="XMLID_117_" x="-332" y="1330.7" class="st7" width="160.2" height="553.3"/>
+			</g>
+			<g id="XMLID_153_">
+			</g>
+		</g>
+		<rect id="XMLID_67_" x="-332" y="1864.9" class="st13" width="160.2" height="19.1"/>
+	</g>
+	<line id="XMLID_629_" class="st12" x1="150.3" y1="1946.4" x2="150.3" y2="2091.4"/>
+	<g id="XMLID_624_">
+		<rect id="XMLID_627_" x="125.3" y="1584.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_625_" x="115.7" y="1591.1" class="st18" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_450_" x="34.1" y="2066.9" class="st1" width="19.2" height="13.7"/>
+	<g id="XMLID_616_">
+		<rect id="XMLID_618_" x="710.9" y="1950.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_617_" x="701.3" y="1957" class="st0" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_615_" x="77.1" y="1544.3" class="st13" width="106.6" height="14.8"/>
+	<rect id="XMLID_612_" x="540.5" y="1544.3" class="st13" width="160.2" height="19.1"/>
+	<rect id="XMLID_590_" x="71.1" y="871" class="st17" width="19.2" height="13.7"/>
+	<rect id="XMLID_589_" x="67.2" y="864.2" class="st8" width="19.2" height="13.7"/>
+	<g id="XMLID_260_">
+		<g id="XMLID_563_">
+			<g id="XMLID_587_">
+				<rect id="XMLID_628_" x="67.1" y="1100.1" class="st8" width="106.6" height="183.3"/>
+			</g>
+			<g id="XMLID_586_">
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_234_">
+		<g id="XMLID_235_">
+			<g id="XMLID_258_">
+				<rect id="XMLID_107_" x="530.5" y="749.2" class="st7" width="160.2" height="534.2"/>
+			</g>
+			<g id="XMLID_257_">
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_66_">
+		<g id="XMLID_85_">
+			<rect id="XMLID_89_" x="-138.9" y="2815.6" class="st21" width="19.2" height="13.7"/>
+			<rect id="XMLID_86_" x="-158.5" y="2830.7" class="st22" width="19.2" height="13.7"/>
+		</g>
+		<line id="XMLID_173_" class="st4" x1="-422.7" y1="3361.4" x2="-422.7" y2="3111.4"/>
+		<line id="XMLID_172_" class="st5" x1="-384.7" y1="3361.4" x2="-384.7" y2="3257.4"/>
+	</g>
+	<line id="XMLID_447_" class="st11" x1="150.3" y1="2091.4" x2="150.3" y2="2137.4"/>
+	<line id="XMLID_340_" class="st11" x1="275.3" y1="2104.4" x2="424.3" y2="2104.4"/>
+	<line id="XMLID_285_" class="st11" x1="275.3" y1="2121.4" x2="349.3" y2="2121.4"/>
+	
+		<rect id="XMLID_284_" x="56.7" y="2097.6" transform="matrix(0.9214 0.3886 -0.3886 0.9214 822.9719 139.633)" class="st20" width="19.2" height="13.7"/>
+	<g id="XMLID_281_">
+		
+			<rect id="XMLID_283_" x="448.4" y="2166.2" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -636.2454 4105.417)" class="st17" width="19.2" height="13.7"/>
+		
+			<rect id="XMLID_282_" x="436.7" y="2164.9" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -655.9268 4095.5247)" class="st19" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_333_" x="8.2" y="2725" class="st0" width="742.5" height="546.4"/>
+	<g id="XMLID_326_">
+		<g id="XMLID_331_">
+			<rect id="XMLID_325_" x="8.7" y="2725" class="st9" width="203.7" height="166.1"/>
+		</g>
+		<g id="XMLID_330_">
+		</g>
+	</g>
+	<g id="XMLID_319_">
+		<g id="XMLID_324_">
+			<rect id="XMLID_318_" x="7.8" y="2725" class="st9" width="203.7" height="166.1"/>
+		</g>
+		<g id="XMLID_323_">
+		</g>
+	</g>
+	<rect id="XMLID_264_" x="704.5" y="2725.7" class="st22" width="19.2" height="13.7"/>
+	<rect id="XMLID_266_" x="724.5" y="2712.1" class="st21" width="19.2" height="13.7"/>
+	<g id="XMLID_57_">
+		<rect id="XMLID_64_" x="-275.5" y="4246.9" class="st13" width="15" height="66.6"/>
+		<rect id="XMLID_63_" x="-257.7" y="4246.9" class="st20" width="15" height="66.6"/>
+		<rect id="XMLID_62_" x="-293.2" y="4246.9" class="st7" width="15" height="66.6"/>
+		<rect id="XMLID_61_" x="-240" y="4246.9" class="st25" width="15" height="66.6"/>
+		<rect id="XMLID_60_" x="-222.2" y="4246.9" class="st0" width="15" height="66.6"/>
+		<rect id="XMLID_59_" x="-204.4" y="4246.9" class="st26" width="15" height="66.6"/>
+		<rect id="XMLID_58_" x="-186.7" y="4246.9" class="st1" width="15" height="66.6"/>
+	</g>
+	<g id="XMLID_241_">
+		<rect id="XMLID_240_" x="8" y="3571.3" class="st10" width="742.9" height="271.6"/>
+		<rect id="XMLID_339_" x="67.8" y="3625.9" class="st27" width="683.1" height="217"/>
+		<g id="XMLID_312_">
+			<g id="XMLID_317_">
+				<rect id="XMLID_232_" x="8" y="3296.5" class="st9" width="742.9" height="274.8"/>
+			</g>
+			<g id="XMLID_316_">
+			</g>
+		</g>
+		<g id="XMLID_273_">
+			<rect id="XMLID_338_" x="587.7" y="3776.3" class="st13" width="15" height="66.6"/>
+			<rect id="XMLID_337_" x="605.5" y="3776.3" class="st20" width="15" height="66.6"/>
+			<rect id="XMLID_336_" x="569.9" y="3776.3" class="st7" width="15" height="66.6"/>
+			<rect id="XMLID_335_" x="623.2" y="3776.3" class="st25" width="15" height="66.6"/>
+			<rect id="XMLID_334_" x="641" y="3776.3" class="st0" width="15" height="66.6"/>
+			<rect id="XMLID_332_" x="658.8" y="3776.3" class="st26" width="15" height="66.6"/>
+			<rect id="XMLID_311_" x="676.5" y="3776.3" class="st1" width="15" height="66.6"/>
+		</g>
+	</g>
+	<g id="XMLID_150_">
+		<line id="XMLID_194_" class="st28" x1="-171.7" y1="1186.8" x2="-171.7" y2="4557.4"/>
+		<g id="XMLID_185_">
+			<line id="XMLID_193_" class="st29" x1="-171.7" y1="1186.8" x2="-171.7" y2="1192.8"/>
+			<line id="XMLID_192_" class="st30" x1="-171.7" y1="1204.8" x2="-171.7" y2="4545.4"/>
+			<line id="XMLID_191_" class="st29" x1="-171.7" y1="4551.4" x2="-171.7" y2="4557.4"/>
+		</g>
+	</g>
+	<g id="XMLID_155_">
+		<line id="XMLID_209_" class="st28" x1="-795.4" y1="4380.8" x2="-795.4" y2="1010.1"/>
+		<g id="XMLID_205_">
+			<line id="XMLID_208_" class="st29" x1="-795.4" y1="4380.8" x2="-795.4" y2="4374.8"/>
+			<line id="XMLID_207_" class="st30" x1="-795.4" y1="4362.8" x2="-795.4" y2="1022.1"/>
+			<line id="XMLID_206_" class="st29" x1="-795.4" y1="1016.1" x2="-795.4" y2="1010.1"/>
+		</g>
+	</g>
+	<rect id="XMLID_479_" x="-2191.2" y="-7.5" class="st1" width="1025.9" height="713.2"/>
+	<rect id="XMLID_460_" x="-1869.5" y="376.3" class="st31" width="174.2" height="38.6"/>
+	<text id="XMLID_459_" transform="matrix(1 0 0 1 -1859.969 382.8367)"><tspan x="0" y="0" class="st1" style="font-family:'Roboto-Thin'; font-size:8.6179px;">Desplegar items de un JSON con mismas </tspan><tspan x="-1.3" y="13.9" class="st1" style="font-family:'Roboto-Thin'; font-size:8.6179px;">caracteristicas, evitar refrescar la pagina al </tspan><tspan x="-6.7" y="27.9" class="st1" style="font-family:'Roboto-Thin'; font-size:8.6179px;">cambiar, sino solo  cambiando la informacion</tspan></text>
+	<polyline id="XMLID_458_" class="st16" points="-2092.2,305.4 -2092.2,380 -2091.3,379.9 -2010.2,379.9 -2010.2,379.3 
+		-2010.2,468.4 	"/>
+	<g id="XMLID_386_">
+		<g id="XMLID_406_">
+			<rect id="XMLID_414_" x="-2108.4" y="477.2" class="st2" width="943.2" height="171.1"/>
+		</g>
+		<g id="XMLID_391_">
+		</g>
+	</g>
+	<g id="XMLID_290_">
+		<g id="XMLID_384_">
+			<rect id="XMLID_385_" x="-1447.2" y="47.6" class="st3" width="281.9" height="170.7"/>
+		</g>
+		<g id="XMLID_383_">
+		</g>
+	</g>
+	<line id="XMLID_278_" class="st11" x1="-2008.7" y1="-7.6" x2="-2008.7" y2="56.4"/>
+	<line id="XMLID_277_" class="st11" x1="-1835.7" y1="10.4" x2="-1629.7" y2="10.4"/>
+	<line id="XMLID_274_" class="st11" x1="-1835.7" y1="33.4" x2="-1733.7" y2="33.4"/>
+	
+		<rect id="XMLID_271_" x="-2137.5" y="0.9" transform="matrix(0.9214 0.3886 -0.3886 0.9214 -162.9157 826.2935)" class="st20" width="26.5" height="18.9"/>
+	<g id="XMLID_268_">
+		
+			<rect id="XMLID_270_" x="-1596.6" y="95.6" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -2840.1416 -863.7151)" class="st17" width="26.5" height="18.9"/>
+		
+			<rect id="XMLID_269_" x="-1612.8" y="93.9" transform="matrix(-0.7499 -0.6616 0.6616 -0.7499 -2867.3201 -877.3757)" class="st19" width="26.5" height="18.9"/>
+	</g>
+	<rect id="XMLID_267_" x="-1202.1" y="685.9" class="st21" width="26.5" height="18.9"/>
+	<line id="XMLID_522_" class="st31" x1="-1111.7" y1="-7.1" x2="-1111.7" y2="712.9"/>
+	<rect id="XMLID_562_" x="-854.8" y="1318.4" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_238_" x="822.1" y="2656.6" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_280_" x="822.1" y="2016.7" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_244_" x="822.1" y="1376.8" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_246_" x="822.1" y="736.9" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_237_" x="822.1" y="3296.5" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_564_" x="-854.5" y="1865.1" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_565_" x="-854.5" y="2313.5" class="st32" width="742.9" height="546.4"/>
+	<rect id="XMLID_566_" x="-854.5" y="2822.4" class="st32" width="742.9" height="546.4"/>
+	<line id="XMLID_245_" class="st4" x1="440.3" y1="3256.4" x2="440.3" y2="3006.4"/>
+	<line id="XMLID_243_" class="st5" x1="478.3" y1="3256.4" x2="478.3" y2="3152.4"/>
+	<g id="XMLID_275_">
+		<g id="XMLID_446_">
+			<rect id="XMLID_448_" x="-0.2" y="318.1" class="st6" width="742.9" height="123.9"/>
+		</g>
+		<g id="XMLID_443_">
+		</g>
+	</g>
+	<g id="XMLID_263_">
+		<g id="XMLID_648_">
+			<path id="XMLID_652_" class="st23" d="M153.4,161.9c1,0,1-1.6,0-1.6C152.4,160.3,152.4,161.9,153.4,161.9L153.4,161.9z"/>
+		</g>
+	</g>
+	<g id="XMLID_262_">
+		<g id="XMLID_633_">
+			<path id="XMLID_647_" class="st23" d="M170,129.6c1,0,1-1.6,0-1.6C169,128.1,169,129.6,170,129.6L170,129.6z"/>
+		</g>
+	</g>
+	<line id="XMLID_261_" class="st12" x1="132.3" y1="401.4" x2="132.3" y2="546.4"/>
+	<g id="XMLID_255_">
+		<rect id="XMLID_259_" x="107.3" y="39.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_256_" x="97.7" y="46.1" class="st18" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_254_" x="16.1" y="521.9" class="st1" width="19.2" height="13.7"/>
+	<g id="XMLID_251_">
+		<rect id="XMLID_253_" x="692.9" y="405.2" class="st17" width="19.2" height="13.7"/>
+		<rect id="XMLID_252_" x="683.3" y="412" class="st0" width="19.2" height="13.7"/>
+	</g>
+	<rect id="XMLID_250_" x="59.1" y="-0.7" class="st13" width="106.6" height="14.8"/>
+	<rect id="XMLID_137_" x="522.5" y="-0.7" class="st13" width="160.2" height="19.1"/>
+</g>
+<g id="Capa_3">
+	<g id="XMLID_216_">
+		<line id="XMLID_215_" class="st33" x1="-172" y1="1318.9" x2="-172" y2="3741.4"/>
+		<line id="XMLID_214_" class="st33" x1="-795.2" y1="1318.9" x2="-795.2" y2="3741.4"/>
+		<line id="XMLID_213_" class="st33" x1="-209.9" y1="1318.9" x2="-209.9" y2="3741.4"/>
+		<line id="XMLID_212_" class="st33" x1="-225.5" y1="1318.9" x2="-225.5" y2="3741.4"/>
+		<line id="XMLID_211_" class="st33" x1="-262.9" y1="1318.9" x2="-262.9" y2="3741.4"/>
+		<line id="XMLID_210_" class="st33" x1="-278.5" y1="1318.9" x2="-278.5" y2="3741.4"/>
+		<line id="XMLID_203_" class="st33" x1="-688.8" y1="1318.9" x2="-688.8" y2="3741.4"/>
+		<line id="XMLID_202_" class="st33" x1="-704.3" y1="1318.9" x2="-704.3" y2="3741.4"/>
+		<line id="XMLID_201_" class="st33" x1="-741.7" y1="1318.9" x2="-741.7" y2="3741.4"/>
+		<line id="XMLID_199_" class="st33" x1="-757.3" y1="1318.9" x2="-757.3" y2="3741.4"/>
+		<line id="XMLID_198_" class="st33" x1="-316.4" y1="1318.9" x2="-316.4" y2="3741.4"/>
+		<line id="XMLID_197_" class="st33" x1="-332" y1="1318.9" x2="-332" y2="3741.4"/>
+		<line id="XMLID_196_" class="st33" x1="-369.4" y1="1318.9" x2="-369.4" y2="3741.4"/>
+		<line id="XMLID_195_" class="st33" x1="-384.9" y1="1318.9" x2="-384.9" y2="3741.4"/>
+		<line id="XMLID_178_" class="st33" x1="-422.9" y1="1318.9" x2="-422.9" y2="3741.4"/>
+		<line id="XMLID_177_" class="st33" x1="-438.4" y1="1318.9" x2="-438.4" y2="3741.4"/>
+		<line id="XMLID_174_" class="st33" x1="-475.8" y1="1318.9" x2="-475.8" y2="3741.4"/>
+		<line id="XMLID_171_" class="st33" x1="-491.4" y1="1318.9" x2="-491.4" y2="3741.4"/>
+		<line id="XMLID_165_" class="st33" x1="-528.8" y1="1318.9" x2="-528.8" y2="3741.4"/>
+		<line id="XMLID_158_" class="st33" x1="-544.4" y1="1318.9" x2="-544.4" y2="3741.4"/>
+		<line id="XMLID_156_" class="st33" x1="-582.3" y1="1318.9" x2="-582.3" y2="3741.4"/>
+		<line id="XMLID_140_" class="st33" x1="-597.9" y1="1318.9" x2="-597.9" y2="3741.4"/>
+		<line id="XMLID_139_" class="st33" x1="-635.3" y1="1318.9" x2="-635.3" y2="3741.4"/>
+		<line id="XMLID_138_" class="st33" x1="-650.9" y1="1318.9" x2="-650.9" y2="3741.4"/>
+	</g>
+	<g id="XMLID_20_">
+		<rect id="XMLID_224_" x="-3942.3" y="1318.4" class="st34" width="961.5" height="81.6"/>
+		<line id="XMLID_223_" class="st33" x1="-3057.9" y1="1318.9" x2="-3057.9" y2="3741.4"/>
+		<line id="XMLID_222_" class="st33" x1="-3865.2" y1="1318.9" x2="-3865.2" y2="3741.4"/>
+		<line id="XMLID_221_" class="st33" x1="-3107" y1="1318.9" x2="-3107" y2="3741.4"/>
+		<line id="XMLID_220_" class="st33" x1="-3127.2" y1="1318.9" x2="-3127.2" y2="3741.4"/>
+		<line id="XMLID_219_" class="st33" x1="-3175.6" y1="1318.9" x2="-3175.6" y2="3741.4"/>
+		<line id="XMLID_218_" class="st33" x1="-3195.8" y1="1318.9" x2="-3195.8" y2="3741.4"/>
+		<line id="XMLID_217_" class="st33" x1="-3727.3" y1="1318.9" x2="-3727.3" y2="3741.4"/>
+		<line id="XMLID_136_" class="st33" x1="-3747.5" y1="1318.9" x2="-3747.5" y2="3741.4"/>
+		<line id="XMLID_135_" class="st33" x1="-3795.9" y1="1318.9" x2="-3795.9" y2="3741.4"/>
+		<line id="XMLID_130_" class="st33" x1="-3816.1" y1="1318.9" x2="-3816.1" y2="3741.4"/>
+		<line id="XMLID_129_" class="st33" x1="-3244.9" y1="1318.9" x2="-3244.9" y2="3741.4"/>
+		<line id="XMLID_128_" class="st33" x1="-3265.1" y1="1318.9" x2="-3265.1" y2="3741.4"/>
+		<line id="XMLID_127_" class="st33" x1="-3313.5" y1="1318.9" x2="-3313.5" y2="3741.4"/>
+		<line id="XMLID_106_" class="st33" x1="-3333.7" y1="1318.9" x2="-3333.7" y2="3741.4"/>
+		<line id="XMLID_105_" class="st33" x1="-3382.8" y1="1318.9" x2="-3382.8" y2="3741.4"/>
+		<line id="XMLID_74_" class="st33" x1="-3403" y1="1318.9" x2="-3403" y2="3741.4"/>
+		<line id="XMLID_73_" class="st33" x1="-3451.5" y1="1318.9" x2="-3451.5" y2="3741.4"/>
+		<line id="XMLID_72_" class="st33" x1="-3471.6" y1="1318.9" x2="-3471.6" y2="3741.4"/>
+		<line id="XMLID_55_" class="st33" x1="-3520.1" y1="1318.9" x2="-3520.1" y2="3741.4"/>
+		<line id="XMLID_54_" class="st33" x1="-3540.3" y1="1318.9" x2="-3540.3" y2="3741.4"/>
+		<line id="XMLID_53_" class="st33" x1="-3589.4" y1="1318.9" x2="-3589.4" y2="3741.4"/>
+		<line id="XMLID_28_" class="st33" x1="-3609.5" y1="1318.9" x2="-3609.5" y2="3741.4"/>
+		<line id="XMLID_27_" class="st33" x1="-3658" y1="1318.9" x2="-3658" y2="3741.4"/>
+		<line id="XMLID_25_" class="st33" x1="-3678.2" y1="1318.9" x2="-3678.2" y2="3741.4"/>
+	</g>
+</g>
+</svg>
