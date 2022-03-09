@@ -1,42 +1,49 @@
 import React,{useEffect} from 'react'
-
-
-
+import Slides from './Slides';
+import Navbar from './Navbar';
+import Keypad from './Keypad';
 
 const JSprojects = [
   {
     id: 1,
-    name:"",
+    name:"bookmark",
     text: "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Ipsam, aliquam?",
+    img: require("./apps_img/bookmark.png"),
   },
   {
     id: 2,
-    name:"",
+    name:"menu",
     text: "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Ipsam, aliquam?",
+    img: require("./apps_img/menu_img.png"),
   },
   {
     id: 3,
-    name:"",
+    name:"shorter Links",
     text: "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Ipsam, aliquam?",
+    img:require("./apps_img/rockpaper_img.png"),
   },
+  
   
 ]
 const Reactprojects = [
 
   {
     id: 4,
-    name:"",
+    name:"rock,paper,scissor",
     text: "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Ipsam, aliquam?",
+    img:require("./apps_img/shorten_img.png"),
   },
   {
     id: 5,
-    name:"",
+    name:"TicTacToe",
     text: "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Ipsam, aliquam?",
+    img: require("./apps_img/tictactoe_img.png"),
   },
   {
     id: 6,
-    name:"",
+    name:"ToDo App",
     text: "Lorem ipsum dolor sit amet consectetur dolor sit amet consectetur adipisicing elit. Ipsam, aliquam?",
+    img: require("./apps_img/todoapp_img.png"),
   },
   
 ]
@@ -49,10 +56,16 @@ function App() {
   },[]);
 
 
+ 
+
   return (
     <>
-      <div className="container">
-        <article class="screen page1">
+      <Navbar></Navbar>
+            <div className="container">
+        <article className="screen page1">
+
+          <Keypad></Keypad>
+
           <div className="salute">
             <h3>Buenas!, soy</h3>
             <h1 className="title">Gonzalo Ruiz.</h1>
@@ -69,20 +82,11 @@ function App() {
 
 
         <article className="screen page2">
+          <Keypad></Keypad>
           <h1 className="title">About <span>  Me</span></h1>
           
           <div className="info-container">
-            <p className="about-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-            Labore quae voluptate repudiandae fugiat unde, odio quia explicabo necessitatibus. Esse, sit?
-            Labore quae voluptate repudiandae fugiat unde, odio quia explicabo necessitatibus. Esse, sit?
-            Labore quae voluptate repudiandae fugiat unde, odio quia explicabo necessitatibus. Esse, sit?
-            Labore quae voluptate repudiandae fugiat unde, odio quia explicabo necessitatibus.
-            Labore quae voluptate repudiandae fugiat unde, odio quia explicabo.
-            </p>
-            <div className="img-container">
-              <img src={require("./images/profile-pic.png")} alt="profile-img" />
-              <span className="img-border"></span>
-            </div>
+            <Slides></Slides>     
           </div>
           <div className="yellow_block1"></div>
         </article>
@@ -91,36 +95,62 @@ function App() {
 
         
         <article className="screen page3">
+          <Keypad></Keypad>
+
           <div className="green-block"></div>
           <h1 className="title">Proyectos</h1>
           <div className="projects Reactprojects">
             {JSprojects.map((item)=>{
-              const {id,name,text} = item;
+              const {id,name,img} = item;
 
               return <div className="project " key={id}>
                 <h3>{name}</h3>
-                <p>{text}</p>
+                <img src={img} alt={name} />
               </div>
             })}
           </div>
           <div className="projects JSprojects">
             {Reactprojects.map((item)=>{
-              const {id,name,text} = item;
-
+              const {id,name,img} = item;
+              
               return <div className="project" key={id}>
                 <h3>{name}</h3>
-                <p>{text}</p>
+                <img src={img} alt={name} />
               </div>
             })}
           </div>
-
-
           <div className="green-line"></div>
         </article>
+
+        
         <article className="screen page4">
+          <Keypad></Keypad>
+
           <div className="gray-line"></div>
           <h1 className="title">Contacto</h1>
-          <img src="./images/palette_img.svg" alt="pallete-img" className="palette-icon" />
+
+          <footer >
+            {/* <img style={{width:"200px"}} src={require('./images/profile-pic.png')} alt="x"  /> */}
+            <div className="white-block"></div>
+
+            <section className="footer-table">
+                  <div className="table-row">
+                      <p href="#">telefono</p>
+                      <p href="#">e-mail</p>
+                      <p href="#">linkedIn</p>
+                      <p href="#">github</p>
+                  </div>
+                  <div className="table-row">
+                      <a href="#">351-153301766</a>
+                      <a href="#">gonzaruiz9191@gmail.com</a>
+                      <a href="#">Gonzaruiz</a>
+                      <a href="#">github.com/tak9191/</a>
+                  </div>
+              </section>
+          </footer>
+
+
+        <img src={require("./images/palette_img.png" )} alt="palette-img" className="palette-icon" />
         </article>
 
 
