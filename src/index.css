@@ -10,9 +10,9 @@
 }
 
 
-
-
-
+html{
+  scroll-behavior: smooth;
+}
 
 
 
@@ -44,6 +44,7 @@ body {
   width: 100vw;
   margin-inline: auto;
   height: max(100vh, 600px);
+  position: relative;
 }
 
 
@@ -96,7 +97,7 @@ body {
   position: absolute;
   background: url("./images//redbox_small.svg") no-repeat;
   width: 174px;
-  height: 264px;
+  height: min(264px,45vw);
   bottom: -82px;
   left: 5vw;
 } 
@@ -109,10 +110,51 @@ body {
   margin-top: 150px;
 }
 .salute p {
-  max-width: 350px;
+  font-size: 1.1rem;
+  max-width: 400px;
   font-weight: 100;
 }
 
+
+
+
+.link_to_projects{
+  justify-self: flex-start;
+  align-self: flex-end;
+  bottom: 100px;
+  left: max(30vw,230px);
+  border-top: 1px solid #E5907E;
+  border-right: 1px solid #E5907E;
+  height: 35px;
+  width: min(230px,38vw);
+  position: relative;
+}
+.border-left{
+  border-left: 1px solid #E5907E;
+  position: absolute;
+  top: 0;
+  bottom: 60%;
+}
+.border-bottom{
+  border-bottom: 1px solid #E5907E;
+  position: absolute;
+  right: 0;
+  left: 95%;
+  bottom: 0;
+}
+.link_to_projects h3{
+  font-size: min(1.2rem,3.3vw);
+  color: #E5907E;
+  font-weight: 400;
+  position: relative;
+  left: -10px; /*para dar efecto de borde desfazado*/
+  bottom: -20px;
+  text-transform: capitalize;
+}
+.link_to_projects:hover, .link_to_projects:active{
+  transform: scale(110%);
+  transition: all 0.2s linear;
+}
 
 
 @media screen and (min-width: 800px){
@@ -131,7 +173,7 @@ body {
 
 
 /* -------------------------------------------- page2 --------------------------------------------*/
-/*Animacion: https://freefrontend.com/css-text-animations/*/
+/*Animacion: https://freefrontend.com/css-text-animations/ */
 .page2{
   display: grid;
   justify-content: center;
@@ -154,10 +196,21 @@ body {
   width: 100vw;
   min-width: 100%;
   height: 230px;
-  background-color:#E2DBBD;
+  background: rgb(221, 215, 185);
+  background: linear-gradient(180deg, rgba(221, 215, 185, 1) 40%, rgba(168, 162, 131, 1) 100%);
+  /* animation: moving 1s ; */
   /* margin-bottom: 50px; */
 }
 
+@keyframes moving{
+  0%{
+    transform: translateX(-100vw);
+  }
+
+  80%{
+      transform: translateX(0);
+  }
+}
 
 
 .page2 h1{
@@ -176,8 +229,8 @@ body {
   z-index: 1;
   display: grid;
   position: relative; /*relative para poder ubicar los elementos absolute*/
-  
 }
+
 .about-text{
   font-weight: 100;
   text-align: center;
@@ -191,6 +244,8 @@ body {
   padding-bottom: 8vw;
 }
 
+
+
 .img-container{
   margin-left: 8vw;
   justify-self: center;
@@ -199,8 +254,58 @@ body {
   height: 250px; /*evitar movimientos elementos*/
   position: relative;
   bottom: 130px;
-  
 }
+
+.about-animated{
+    animation: about-animation 1s;
+}
+.about-animated2 {
+  animation: about-animation2 1s;
+}
+
+@keyframes about-animation {
+  0%{
+      transform: translateY(10px);
+      opacity: 100%;
+  }
+
+  25%{
+    transform: translateY(-200px);
+    opacity: 0%;
+  }
+  50%{
+      transform: translateY(200px);
+      opacity: 0%;
+  }
+
+  100%{
+    transform: translateY(0px);
+    opacity: 100%;
+  }
+}
+@keyframes about-animation2 {
+  0% {
+    transform: translateY(10px);
+    opacity: 100%;
+  }
+  
+  25% {
+    transform: translateY(-200px);
+    opacity: 0%;
+  }
+  
+  50% {
+    transform: translateY(200px);
+    opacity: 0%;
+  }
+  
+  100% {
+    transform: translateY(0px);
+    opacity: 100%;
+  }
+}
+
+
 
 .info-container img{
   width: 200px;
@@ -284,19 +389,22 @@ body {
       black 60%,
       #1E2324 60%,
       #1E2324 100%);
+    
   }
   .page3 h1{
     color: #BAD8B4;
     align-self: flex-start;
     justify-self: center;
     z-index: 1;
+    padding-right: 20vw;
   }
 
 
   .green-block{
     align-self: flex-start;
     position:absolute;
-    background-color: #90A88A;;
+    background: rgb(144, 168, 138);
+    background: linear-gradient(180deg, rgba(144, 168, 138, 1) 40%, rgba(118, 136, 113, 1) 100%);
     width: 250px;
     height: 180px;
   }
@@ -305,19 +413,42 @@ body {
     justify-self: flex-end;
     width: 45vw;
     height:140px;
-    background-color:#90A88A;;
+    background: rgb(144, 168, 138);
+    background: linear-gradient(180deg, rgba(144, 168, 138, 1) 40%, rgba(118, 136, 113, 1) 100%);
     position: absolute;
   }
 
 
+
+
+
+  .projectsContainer{
+    position: relative;
+    align-self: center;
+    justify-self: center;
+    width: min(800px,80vw);
+    height: 250px;
+    overflow-x: hidden;
+    cursor: grab;
+  }
+
+
+
+
+
+
+
+
   .projects{
+    position: absolute;
+    top: 0;
+    left: 0;
     justify-self: center;
     z-index: 2;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(7,1fr);
     grid-column-gap: 15px;
-    grid-row-gap: 2em;
-    
+
   }
   .project{
     font-size: 0.6em;
@@ -327,14 +458,17 @@ body {
     border:1px solid #BAD8B4;
     /* box-shadow: 0px 0px 10px 0.1px #BAD8B4; */
     cursor: pointer;
+    overflow: hidden;
+
 
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     text-align: center;
-    width: min(190px,25vw);
-    height: min(150px,22vw);
-    filter: blur(1px);
+    width: min(240px,33vw);
+    height: min(200px,30vw);
+    /* filter: blur(1px) grayscale(70%); */
+
   }
   .project:hover{
      box-shadow: 0px 0px 15px 0.1px #BAD8B4;
@@ -349,15 +483,35 @@ body {
 
 @media screen and (min-width: 830px){
     .page3{
-          justify-content:flex-start ;
+          justify-content: center ;
     }
-    .Reactprojects{
-      padding-left: 25vw; /*efecto desfazado*/
-
+    /* .Reactprojects{
+      left: 30vw;
     }
-
+    .JSprojects{
+      right: 30vw;
+    } */
 
   }
+/* --------------- drag n drop projects --------------- */
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  background-color: #f1f1f1;
+  text-align: center;
+  border: 1px solid #d3d3d3;
+}
+
+#mydivheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+}
+
+
+
 
 /* -------------------------------------------- page4 Contact --------------------------------------------*/
 
@@ -390,6 +544,7 @@ body {
   width:200px;
   height:260px;
   background-color:#fff;
+  transition: var(--transition);
 }
 
 /* ------------ Footer ------------ */
@@ -401,25 +556,66 @@ footer{
   overflow: hidden;
   padding-right: 60px; /*presiena y deforma el cubo blanco de manera responsive*/
   font-size: 1.2rem;
+  position: relative;
 }
+footer p {
+  font-size: 0.9rem;
+  color: #E8EAEC;
+}
+
 
 .footer-table{
   display: flex;
-  margin: 40px 0;
+  flex-direction: column;
+  margin-bottom: 10px;
+  width: 350px;
+  height: auto;
 }
 .table-row{
-  margin: 0 20px;
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  margin: 4px 0;
+
 }
-.table-row a, .table-row p{
+.table-row img {
+  margin: 0 20px;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+
+.table-row img:hover,
+.table-row img:active {
+  transform: scale(150%);
+}
+
+
+
+
+/* footer a{
+  font-size: 0.9rem;
   color: #E8EAEC;
-  margin: 3px 0;
+} */
+@media screen and (min-width: 800px){
+
+  .table-row img{
+    width: 35px;
+    height: 35px;
+  }
+  footer p{
+  font-size: 1.2rem;
 }
-.table-row a:hover{
-  color: #959595;
-  transition: var(--transition);
+
 }
+/* .border-line{
+  position: absolute;
+  right: -1px;
+  bottom: -1px;
+  width: 95vw;
+  height: max(65vh,400px);
+  border: 1px solid #fff;
+} */
 
 /* -------------------------------------------- navbar --------------------------------------------*/
 

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="422 52.9 1439.9 736" style="enable-background:new 422 52.9 1439.9 736;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{opacity:0.24;mask:url(#XMLID_11_);fill:#90A88A;enable-background:new    ;}
+	.st6{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st7{fill:url(#SVGID_3_);}
+	.st8{opacity:0.23;mask:url(#XMLID_13_);}
+	.st9{fill:#90A88A;}
+	.st10{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st11{fill:url(#SVGID_4_);}
+	.st12{opacity:8.000000e-002;mask:url(#XMLID_14_);}
+</style>
+<g id="Capa_2" class="st0">
+	<rect x="422" y="52.8" class="st1" width="1507.5" height="736"/>
+</g>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="948.7" y="440.8" width="224.3" height="120.9">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="948.7" y="440.8" width="224.3" height="120.9" id="XMLID_11_">
+	<g class="st2">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1005.5523" y1="351.3806" x2="1188.8999" y2="351.3806" gradientTransform="matrix(1 0 0 -1 0 841.67)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<rect x="1005.6" y="388.1" class="st3" width="183.3" height="204.4"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="2356.8767" y1="490.3994" x2="2404.3931" y2="490.3994" gradientTransform="matrix(-1 0 0 1 3362.429 -0.11)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<rect x="958" y="388.1" class="st4" width="47.5" height="204.4"/>
+	</g>
+</mask>
+<rect id="XMLID_6_" x="948.7" y="440.8" class="st5" width="224.3" height="120.9"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="354" y="607.7" width="432" height="72">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="354" y="607.7" width="432" height="72" id="XMLID_13_">
+	<g class="st6">
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="289.8543" y1="396.292" x2="751" y2="396.292" gradientTransform="matrix(1 0 0 -1 76 1042.3887)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<rect x="365.9" y="603.7" class="st7" width="461.1" height="84.7"/>
+	</g>
+</mask>
+<g id="XMLID_5538_" class="st8">
+	<g id="XMLID_5576_">
+		<rect x="354" y="607.7" class="st9" width="432" height="72"/>
+	</g>
+	<g id="XMLID_5569_">
+	</g>
+</g>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="388" y="509.7" width="371" height="72">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="388" y="509.7" width="371" height="72" id="XMLID_14_">
+	<g class="st10">
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="388.1877" y1="301.3275" x2="1001.5877" y2="301.3275" gradientTransform="matrix(1 0 0 -1 0 841.67)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<rect x="388.2" y="498" class="st11" width="613.4" height="84.7"/>
+	</g>
+</mask>
+<g id="XMLID_1_" class="st12">
+	<g>
+		<rect x="388" y="509.7" class="st9" width="371" height="72"/>
+	</g>
+</g>
+</svg>

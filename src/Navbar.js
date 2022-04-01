@@ -19,10 +19,10 @@ const Navbar = () => {
             </div>
             <div className={`${showLinks && 'show-links'}`}>
               <ul className= "links" >
-                  <li><a href="#">home</a></li>
-                  <li><a href="#">projects</a></li>
-                  <li><a href="#">about</a></li>
-                  <li><a href="#">contact</a></li>
+                  <li><a href="#page1">home</a></li>
+                  <li><a href="#page2">about</a></li>
+                  <li><a href="#page3">projects</a></li>
+                  <li><a href="#page4">contact</a></li>
               </ul>
               <div className="nav-block" ></div>             
             </div>
