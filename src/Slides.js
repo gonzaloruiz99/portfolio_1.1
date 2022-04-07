@@ -13,7 +13,7 @@ const data = [
     {
         id: "studies_info",
         text: `Tengo facilidad en adquirir nuevas tecnicas y conocimientos, al haber aprendido mayormente de manera 
-        auto-didacta; con conocimientos basicos en Django, Arduino y C++, ioT, y especializandome en diseño UX y FrontEnd con JS y React.`,
+        auto-didacta; con conocimientos basicos en Django, Arduino, C++, ioT, y especializandome en diseño UX y FrontEnd con JS y React.`,
         img: StudyImg,
     },
     {
@@ -26,104 +26,13 @@ const data = [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-const Slides = () => {
-
-
-    const [features, setFeatures] = useState(data);
-    const [index, setIndex] = useState(0);
-    
-
-
-
-
-    var prevSlide = {
-        opacity: "1",
-        transform: "translateX(0)"
-    }
-    var activeSlide = {
-        transform: "translateX(100%)",
-    }
-    var nextSlide = {
-        transform: "translateX(-100%)",
-    }
-
-    const nextImg = () =>{
-        index< data.length -1 ? setIndex(index+1) : setIndex(0);
-    }
-    const prevImg = () =>{
-        index>0 ? setIndex(index-1) : setIndex(2);
-    }
-
-
-    return (
-        <>
-            <div className="btn-container">
-                <button onClick={prevImg}><i className="fa-solid fa-angle-left"></i></button>
-                <button onClick={nextImg}><i className="fa-solid fa-angle-right"></i></button>
-            </div>
-            
-            {features.map((item,featureIndex)=>{
-
-                let position = nextSlide;
-                if(featureIndex === index){
-                    position = activeSlide;
-                }
-                if(featureIndex === index-1 || 
-                    (index === 0 && featureIndex=== features.length -1)){
-                    position = prevSlide;
-                }
-
-                return <p style={position} className="about-text">{item.text}</p>
-
-            })}
-            {features.map((item,featureIndex)=>{
-
-                let position = nextSlide;
-                if(featureIndex === index){
-                    position = activeSlide;
-                }
-                if(featureIndex === index-1 || 
-                    (index === 0 && featureIndex=== features.length -1)){
-                    position = prevSlide;
-                }
-
-                return <div className="img-container" style={position}>
-                    <img src={item.img} alt={item.id} />
-                </div>
-
-            })}
-        </>
-    )
-}
-*/
-
-
 const Slides = () => {
 
     const [index, setIndex] = useState(0)
     const {id,text, img} = data[index];
 
 
-    const [anim, setAnim] = useState("")
+    const [anim, setAnim] = useState("") //Activates the animations toggling between two animations, which re-renders the component
 
 
 
@@ -144,7 +53,7 @@ const Slides = () => {
         <button onClick={nextImg}><i className="fa-solid fa-angle-right"></i></button>
     </div>
     <p className="about-text">{text}</p>
-    <div className={`img-container ${anim}`} >
+    <div className={`img-container block ${anim}`} >
         <img src={img} alt={id} />
     </div>
     </>

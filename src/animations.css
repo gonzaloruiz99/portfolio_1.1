@@ -72,3 +72,188 @@
         width: 100%;
     }
 }
+
+
+
+
+
+
+@keyframes blockAnim {
+    0% {
+        background: none;
+    }
+
+    15% {
+        border: none;
+        background: url("./images//redbox_small.svg") no-repeat;
+    }
+
+    30% {
+        border: 1px solid #E5907E;
+        background: none;
+    }
+
+    45% {
+        background: none;
+    }
+
+    50% {
+        border: 1px solid #E5907E;
+        background: none;
+    }
+
+    53% {
+        border: none;
+        background: url("./images//redbox_small.svg") no-repeat;
+    }
+
+    56% {
+        border: 1px solid #E5907E;
+        background: none;
+    }
+
+    60% {
+        border: none;
+        background: url("./images//redbox_small.svg") no-repeat;
+    }
+
+    75% {
+        border: 1px solid #E5907E;
+        background: none;
+    }
+
+    80% {
+        border: none;
+        background: url("./images//redbox_small.svg") no-repeat;
+    }
+
+    100% {
+        border: 1px solid #E5907E;
+        background: none;
+    }
+}
+/*Blocks animation*/
+
+.redblock2 {
+}
+
+
+
+.redblock2:hover {
+}
+
+.redblock2:hover .redblock1:before,
+.redblock2:hover .redblock1:after {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.redblock2:hover:before {
+            top: 49.5%;
+            left: 49.5%;
+            color: rgba(227, 28, 94,0.8);
+            animation: distort1 300ms linear infinite;
+}
+
+.redblock2:hover:after {
+            top: 50.5%;
+            left: 50.5%;
+            color: rgba(3, 169, 244,0.8);
+            animation: distort2 300ms linear infinite;
+}
+
+
+    @keyframes distort1 {
+        0% {
+            top: 49.5%;
+            left: 49.5%;
+        }
+
+        12.5% {
+            top: 49.5%;
+            left: 50%;
+        }
+
+        25% {
+            top: 49.5%;
+            left: 50.5%;
+        }
+
+        37.5% {
+            top: 50%;
+            left: 50.5%;
+        }
+
+        50% {
+            top: 50.5%;
+            left: 50.5%;
+        }
+
+        62.5% {
+            top: 50.5%;
+            left: 50%;
+        }
+
+        75% {
+            top: 50.5%;
+            left: 49.5%;
+        }
+
+        87.5% {
+            top: 50%;
+            left: 49.5%;
+        }
+
+        100% {
+            top: 49.5%;
+            left: 49.5%;
+        }
+    }
+
+    @keyframes distort2 {
+        0% {
+            top: 50.5%;
+            left: 50.5%;
+        }
+
+        12.5% {
+            top: 50%;
+            left: 50.5%;
+        }
+
+        25% {
+            top: 49.5%;
+            left: 50.5%;
+        }
+
+        37.5% {
+            top: 49.5%;
+            left: 50%;
+        }
+
+        50% {
+            top: 49.5%;
+            left: 49.5%;
+        }
+
+        62.5% {
+            top: 50%;
+            left: 49.5%;
+        }
+
+        75% {
+            top: 50.5%;
+            left: 49.5%;
+        }
+
+        87.5% {
+            top: 50.5%;
+            left: 50%;
+        }
+
+        100% {
+            top: 50.5%;
+            left: 50.5%;
+        }
+    }

@@ -10,25 +10,44 @@ const ProjectsSlides = (props) => {
     const Cards = useRef(null)
     const projectsContainer = useRef(null);
 
-    const handleOnMouseDown = (e) => {
+
+    /*PC listeners*/
+    const handleOnMouseDown = (e) => { //Detects click&hold on project and Sets the x,y of the Cursor
         setIsPressedDown(true);
         setCursorXSpace (e.clientX - Cards.current.offsetLeft);
     }
 
-    window.addEventListener('mouseup', () => {
-        setIsPressedDown(false);
-    })
-
-    const handleOnMouseMove = (e) => {
+    const handleOnMouseMove = (e) => { // Detects movement on the X axis and changes the style.Left of the Cards Container
         if(!isPressedDown) return;
         e.preventDefault();
         Cards.current.style.left = `${e.clientX - cursorXSpace}px`;
         boundCards();
     }
 
+    window.addEventListener('mouseup', () => { // Ends up the interaction with the projectsSlide.
+        setIsPressedDown(false);
+    })
 
 
-    const boundCards = () => {
+
+    /*Mobile listeners*/
+    const handleOnTouchStart = (e) => {
+        setIsPressedDown(true);
+        setCursorXSpace (e.touches[0].clientX - Cards.current.offsetLeft);
+    }
+
+    const handleOnTouchMove = (e) => {
+        if(!isPressedDown) return;
+        Cards.current.style.left = `${e.touches[0].clientX - cursorXSpace}px`;
+        boundCards();
+    }
+
+    window.addEventListener('touchend ', () => {
+        setIsPressedDown(false);
+    })
+
+
+    const boundCards = () => { //Limits the CardContainer between it and its parent container
         const container_rect = projectsContainer.current.getBoundingClientRect();
         const cards_rect = Cards.current.getBoundingClientRect();
 
@@ -41,20 +60,24 @@ const ProjectsSlides = (props) => {
 
 
   return (
-    /*msj en timeout de dobleclick https://css-tricks.com/long-hover/ */
     <div className="projectsContainer" ref={projectsContainer}
-    onMouseDown={(e) => handleOnMouseDown(e)}
+    onMouseDown={(e) => handleOnMouseDown(e) }
     onMouseMove={(e) => handleOnMouseMove(e)}
+    onTouchStart={(e) => handleOnTouchStart(e) }
+    onTouchMove={(e) => handleOnTouchMove(e)}
+    
     > 
         <div className="projects Reactprojects" ref={Cards}>
             {props.data.map((item)=>{
-                const {id,name,img,link} = item;
+                const {id,name,img,link, github} = item;
 
                 return <div className="project " key={id}>
                     <h3>{name}</h3>
-                    {/* <a href={link} target="_blank" rel="noreferrer"><img src={img} alt={name}/> </a> */}
-                   <img src={img} alt={name} onDoubleClick={() => window.open(link)}/>
-                    
+                   <img src={img} alt={name} />
+                   <div className="project_links"> 
+                       <a href={link} target="_blank" rel="noreferrer"><i class="fa-solid fa-eye"></i> Preview</a>
+                       <a href={github} target="_blank" rel="noreferrer"><i class="fa-brands fa-github"></i> Github</a>
+                   </div>
                 </div>
             })}
         </div>
