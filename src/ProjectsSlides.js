@@ -67,7 +67,7 @@ const ProjectsSlides = (props) => {
     onTouchMove={(e) => handleOnTouchMove(e)}
     
     > 
-        <div className="projects Reactprojects" ref={Cards}>
+        <div className="projects" ref={Cards}>
             {props.data.map((item)=>{
                 const {id,name,img,link, github} = item;
 

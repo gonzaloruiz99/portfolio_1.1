@@ -6,20 +6,20 @@ import AttImg from "./images/attributes-pic.svg"
 const data = [
     {
         id: "profile_info",
-        text: `Nacido en Cordoba en 1999. Estudié Diseño Industrial en la facultad Nacional donde expertimenté con el diseño
-         digital, y conocí la relacion usuario-producto UI UX. A mi tercer año hice un cambio hacia la programacion.`,
+        text: `Nací en Cordoba en 1999. Estudié Diseño Industrial en la facultad Nacional donde expertimenté con el diseño
+         digital, el proceso de diseño, y la relacion usuario-producto UI UX. A mi tercer año hice un cambio hacia la programacion.`,
         img: require('./images/profile-pic.png'),
     },
     {
         id: "studies_info",
-        text: `Tengo facilidad en adquirir nuevas tecnicas y conocimientos, al haber aprendido mayormente de manera 
+        text: `Tengo facilidad para adquirir nuevas tecnicas y conocimientos, al haber aprendido de manera 
         auto-didacta; con conocimientos basicos en Django, Arduino, C++, ioT, y especializandome en diseño UX y FrontEnd con JS y React.`,
         img: StudyImg,
     },
     {
         id: "attributes_info",
         text: `En mis diseños y codigos busco la efectividad y una estética acorde al proyecto, priorizando la 
-        impotancia en el usuario y su relacion con la aplicación; trabajando de manera ordenada para futuro uso o mejoras.`,
+        importancia en el usuario y su relacion con la aplicación; trabajando de manera ordenada para futuro uso o mejoras.`,
         img: AttImg,
     },
 ]
@@ -48,11 +48,13 @@ const Slides = () => {
 
   return (
     <>
-    <div className="btn-container">
-        <button onClick={prevImg}><i className="fa-solid fa-angle-left"></i></button>
-        <button onClick={nextImg}><i className="fa-solid fa-angle-right"></i></button>
+    <div className="text-slider">
+        <div className="btn-container">
+            <button onClick={prevImg}><i className="fa-solid fa-angle-left"></i></button>
+            <button onClick={nextImg}><i className="fa-solid fa-angle-right"></i></button>
+        </div>
+        <p className="about-text">{text}</p>
     </div>
-    <p className="about-text">{text}</p>
     <div className={`img-container block ${anim}`} >
         <img src={img} alt={id} />
     </div>

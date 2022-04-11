@@ -163,12 +163,11 @@ function App() {
       <div className="main-container">
         <article className="screen page1" id='page1'>
 
-          <Keypad></Keypad>
 
           <div className="salute">
-            <h3>Buenas!, soy</h3>
+            <p>Hola!, soy</p>
             <div className="wrapper">
-              <h1 className="title name_title"><span>Gonzalo</span> Ruiz.</h1>
+              <h1 className="title name_title"><span>Gonzalo</span> Ruiz</h1>
             </div>
             <p>Diseñador, programador web, y entusiasta a aprender y resolver proyectos y desafios.</p> 
           </div>
@@ -220,22 +219,22 @@ function App() {
           <footer >
             <div className="block-space">
 
-            <div className={`white-block ${form && "white-block_form"}`}>
-              {
-                form && <form action="">
-                  <button className='close-form_btn' onClick={() => setForm(false)}>x</button>
-                  <label htmlFor="">Nombre / Empresa</label>
-                  <input type="text" />
-                  <label htmlFor="">E-mail</label>
-                  <input type="mail" />
-                  <label htmlFor="" >Mensaje</label>
-                  <input type="text" style={{height:"70px"}} />
-                  <button className='form-submit_btn'>Enviar</button>
-              </form>
-              }
-              
-              
-            </div>
+              <div className={`white-block ${form && "white-block_form"}`}>
+                {
+                  form && <form action="">
+                    <button className='close-form_btn' onClick={() => setForm(false)}>x</button>
+                    <label htmlFor="">Nombre / Empresa</label>
+                    <input type="text" />
+                    <label htmlFor="">E-mail</label>
+                    <input type="mail" />
+                    <label htmlFor="" >Mensaje</label>
+                    <input type="text" style={{height:"70px"}} />
+                    <button className='form-submit_btn'>Enviar</button>
+                </form>
+                }
+                
+                
+              </div>
             </div>
 
             <section className="footer-table">
@@ -253,13 +252,13 @@ function App() {
               <div className="table-row" key="email_info" >
                 <button onClick={() => setForm(true)}><img src={MailIcon} alt="email_info" /></button>
                 <p>gonzaruiz9191@gmail.com</p>
-                </div>
+              </div>
             </section>
           </footer>
+
+
           <div className="border-line"></div>
-
-
-        <img src={require("./images/palette_img.png" )} alt="palette-img" className="palette-icon" />
+          <img src={require("./images/palette_img.png" )} alt="palette-img" className="palette-icon" />
         </article>
 
 
