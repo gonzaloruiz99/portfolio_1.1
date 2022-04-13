@@ -258,7 +258,7 @@ body {
   width: 100vw;
   min-width: 100%;
   height: 230px;
-  background: linear-gradient(180deg, rgba(221, 215, 185, 1) 40%, rgba(168, 162, 131, 1) 100%);
+  background: linear-gradient(180deg, rgba(221, 215, 185, 1) 40%, rgba(204, 196, 155, 1) 100%);
   background-color: var(--page2-light_yellow);
 }
 
@@ -665,6 +665,7 @@ body {
   height:260px;
   background-color:#fff;
   transition: var(--transition);
+  cursor: pointer;
 }
 .white-block form{
   display: flex;
@@ -679,6 +680,12 @@ body {
   width: 80%;
   background-color: rgba(30, 35, 36,0.2);
   padding-left: 10px;
+}
+.white-block form textarea{
+  height: 70px;
+  width: 80%;
+  background-color: rgba(30, 35, 36,0.2);
+  padding: 5px;
 }
 .white-block form label{
   font-size: 1rem;
@@ -700,8 +707,7 @@ body {
 
 .white-block_form{
     position: absolute;
-    margin: 0 10vw;
-    width: min(75vw,700px);
+    width: 80vw;
 }
 
 .block-space{
@@ -758,7 +764,6 @@ footer p {
   border-radius: 50%;
 }
 .table-row img:hover,
-.table-row img:active,
 .close-form_btn:hover,
 .close-form_btn:active {
   transform: scale(150%);
@@ -799,11 +804,17 @@ footer p {
   .white-block{
       width: min(370px, 20vw);
   }
+  .white-block_form {
+    width: min(80vw, 700px);
+  }
 
 }
 @media screen and (max-width: 500px) {
 .block-space {
   padding-left: 0;
+}
+.white-block_form{
+      margin-left: 8vw;
 }
   
 

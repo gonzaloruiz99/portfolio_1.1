@@ -7,7 +7,7 @@ const data = [
     {
         id: "profile_info",
         text: `Nací en Cordoba en 1999. Estudié Diseño Industrial en la facultad Nacional donde expertimenté con el diseño
-         digital, el proceso de diseño, y la relacion usuario-producto UI UX. A mi tercer año hice un cambio hacia la programacion.`,
+         digital, el proceso de diseño, y la relacion usuario-producto UI UX.`,
         img: require('./images/profile-pic.png'),
     },
     {

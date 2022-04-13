@@ -4,10 +4,44 @@ import Navbar from './Navbar';
 import Keypad from './Keypad';
 import ProjectsSlides from './ProjectsSlides';
 
+
+
+
+
 import WsspIcon from "./images/whatsapp_logo.svg"
 import LinkedIcon from "./images/linkedIn_logo.svg"
 import MailIcon from "./images/email_logo.svg"
 import GithubIcon from "./images/github_logo.svg"
+
+
+const footerData = [
+  {
+    id: "whatsapp_info",
+    img: WsspIcon,
+    name:"351-153301766",
+    link: "https://wa.me/5493513301766",
+  },
+  // {
+  //   id: "email_info",
+  //   img: MailIcon,
+  //   name:"gonzaruiz9191@gmail.com",
+  //   link: "#",
+  // },
+
+  {
+    id: "linkedIn_info",
+    img: LinkedIcon,
+    name:"LinkedIn.com/gonzalo-ruiz/",
+    link: "https://www.linkedin.com/in/gonzalo-ruiz-214167234/",
+  },
+  {
+    id: "github_info",
+    img: GithubIcon,
+    name:"github.com/gonzaloruiz9191/",
+    link: "https://github.com/gonzaloruiz99",
+  },
+]
+
 
 const JSprojects = [
   {
@@ -120,33 +154,7 @@ const Reactprojects = [
   },
   
 ]
-const footerData = [
-  {
-    id: "whatsapp_info",
-    img: WsspIcon,
-    name:"351-153301766",
-    link: "https://wa.me/5493513301766",
-  },
-  // {
-  //   id: "email_info",
-  //   img: MailIcon,
-  //   name:"gonzaruiz9191@gmail.com",
-  //   link: "#",
-  // },
 
-  {
-    id: "linkedIn_info",
-    img: LinkedIcon,
-    name:"LinkedIn.com/gonzalo-ruiz/",
-    link: "https://www.linkedin.com/in/gonzalo-ruiz-214167234/",
-  },
-  {
-    id: "github_info",
-    img: GithubIcon,
-    name:"github.com/gonzaloruiz9191/",
-    link: "https://github.com/gonzaloruiz99",
-  },
-]
 
 function App() {
   const [form, setForm] = useState(false);
@@ -216,24 +224,11 @@ function App() {
           <div className="gray-line block"></div>
           <h1 className="title">Contacto</h1>
 
+          
           <footer >
             <div className="block-space">
 
-              <div className={`white-block ${form && "white-block_form"}`}>
-                {
-                  form && <form action="">
-                    <button className='close-form_btn' onClick={() => setForm(false)}>x</button>
-                    <label htmlFor="">Nombre / Empresa</label>
-                    <input type="text" />
-                    <label htmlFor="">E-mail</label>
-                    <input type="mail" />
-                    <label htmlFor="" >Mensaje</label>
-                    <input type="text" style={{height:"70px"}} />
-                    <button className='form-submit_btn'>Enviar</button>
-                </form>
-                }
-                
-                
+              <div className="white-block ">
               </div>
             </div>
 
@@ -250,12 +245,11 @@ function App() {
                 })
               }
               <div className="table-row" key="email_info" >
-                <button onClick={() => setForm(true)}><img src={MailIcon} alt="email_info" /></button>
+                <button onClick={() => setForm(!form)}><img src={MailIcon} alt="email_info" /></button>
                 <p>gonzaruiz9191@gmail.com</p>
               </div>
             </section>
           </footer>
-
 
           <div className="border-line"></div>
           <img src={require("./images/palette_img.png" )} alt="palette-img" className="palette-icon" />
