@@ -45,21 +45,6 @@ const footerData = [
 
 const JSprojects = [
   {
-    id: "JSproject_prTs,",
-    name:"Pricing tables",
-    img: require("./apps_images/pricingTables_img.png"),
-    link: "https://gonzaloruiz99.github.io/JS-projects/PricingTables/",
-    github: "https://github.com/gonzaloruiz99/JS-projects",
-  },
-  {
-    id: "JSproject_ECe,",
-    name:"E-Commerce",
-    img: require("./apps_images/eCommerce_img.png"),
-    link: "https://gonzaloruiz99.github.io/JS-projects/Ecommerce/",
-    github: "https://github.com/gonzaloruiz99/JS-projects",
-
-  },
-  {
     id: "JSproject_RmHp,",
     name:"Room Homepage",
     img:require("./apps_images/roomHomepage_img.png"),
@@ -88,6 +73,21 @@ const JSprojects = [
     name:"3D Portfolio",
     img:require("./apps_images/3dPortfolio_img.png"),
     link: "https://gonzaloruiz99.github.io/JS-projects/3dPortfolio/",
+    github: "https://github.com/gonzaloruiz99/JS-projects",
+
+  },
+  {
+    id: "JSproject_prTs,",
+    name:"Pricing tables",
+    img: require("./apps_images/pricingTables_img.png"),
+    link: "https://gonzaloruiz99.github.io/JS-projects/PricingTables/",
+    github: "https://github.com/gonzaloruiz99/JS-projects",
+  },
+  {
+    id: "JSproject_ECe,",
+    name:"E-Commerce",
+    img: require("./apps_images/eCommerce_img.png"),
+    link: "https://gonzaloruiz99.github.io/JS-projects/Ecommerce/",
     github: "https://github.com/gonzaloruiz99/JS-projects",
 
   },
