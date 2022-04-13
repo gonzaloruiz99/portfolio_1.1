@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio_1.1/static/css/main.8466eb75.css",
+    "main.js": "/portfolio_1.1/static/js/main.8b4efcd7.js",
+    "static/media/profile-pic.png": "/portfolio_1.1/static/media/profile-pic.f7a19b4582b88496cc6f.png",
+    "static/media/3dPortfolio_img.png": "/portfolio_1.1/static/media/3dPortfolio_img.212ae1d8ec8eeff25347.png",
+    "static/media/roomHomepage_img.png": "/portfolio_1.1/static/media/roomHomepage_img.269216a3fa4718f84be3.png",
+    "static/media/menu_img.png": "/portfolio_1.1/static/media/menu_img.9965328c5b0bf3ddcb5b.png",
+    "static/media/fixedBackground_img.png": "/portfolio_1.1/static/media/fixedBackground_img.aaf97ed39c36998d3ad3.png",
+    "static/media/eCommerce_img.png": "/portfolio_1.1/static/media/eCommerce_img.b71be5904145645d0c5f.png",
+    "static/media/rockpaper_img.png": "/portfolio_1.1/static/media/rockpaper_img.aa3df9eb754a17037c75.png",
+    "static/media/todo_img.png": "/portfolio_1.1/static/media/todo_img.56288c3cc28b84d67d5f.png",
+    "static/media/countries_img.png": "/portfolio_1.1/static/media/countries_img.48d564486001dd59156a.png",
+    "static/media/shorter_img.png": "/portfolio_1.1/static/media/shorter_img.8e68288f0b83a0e6f12a.png",
+    "static/media/bookmark_img.png": "/portfolio_1.1/static/media/bookmark_img.0ea288120791a45150a3.png",
+    "static/media/pricingTables_img.png": "/portfolio_1.1/static/media/pricingTables_img.075a7df7c82284cbd1f9.png",
+    "static/media/countDown_img.png": "/portfolio_1.1/static/media/countDown_img.e35610fd4327ed4c294a.png",
+    "static/media/tictactoe_img.png": "/portfolio_1.1/static/media/tictactoe_img.5146d8077247dd1c4650.png",
+    "static/media/page1_background.svg": "/portfolio_1.1/static/media/page1_background.abde6b21100ed615f769.svg",
+    "static/media/palette_img.png": "/portfolio_1.1/static/media/palette_img.1b0dfc79dba0c1b182db.png",
+    "static/media/attributes-pic.svg": "/portfolio_1.1/static/media/attributes-pic.d2df58cdbbe0e949fe442e27b427c670.svg",
+    "static/media/studies-pic.svg": "/portfolio_1.1/static/media/studies-pic.e60500522dd426a631a2367878577244.svg",
+    "static/media/email_logo.svg": "/portfolio_1.1/static/media/email_logo.ccd41b91a12926412b938c142373f766.svg",
+    "static/media/whatsapp_logo.svg": "/portfolio_1.1/static/media/whatsapp_logo.1f8a981d9a903ca7db86c7ba7ca49aef.svg",
+    "static/media/linkedIn_logo.svg": "/portfolio_1.1/static/media/linkedIn_logo.a6304cb6827eee5b1ace1a6d0f530432.svg",
+    "static/media/github_logo.svg": "/portfolio_1.1/static/media/github_logo.772dc6aaee7630a6520294c20b64b676.svg",
+    "static/media/page2_background.svg": "/portfolio_1.1/static/media/page2_background.3e3c2da5140e71da8945.svg",
+    "index.html": "/portfolio_1.1/index.html",
+    "main.8466eb75.css.map": "/portfolio_1.1/static/css/main.8466eb75.css.map",
+    "main.8b4efcd7.js.map": "/portfolio_1.1/static/js/main.8b4efcd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8466eb75.css",
+    "static/js/main.8b4efcd7.js"
+  ]
+}
